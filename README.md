@@ -1,7 +1,6 @@
 <div align="center">
     <h1>Hi, I'm Yusuf</h1>
-    <h3>🌱 I’m currently learning 'Laravel,React,Vue,NodeJS'</>
-    <h3>📫 How to reach me **yusuffziyayildirim@gmail.com**</h3> 
+    <h3>🌱 I’m currently learning 'Laravel, React, Vue, NodeJS'</>
 </div>
 
 
@@ -26,5 +25,13 @@
     <a href="https://www.instagram.com/ysfyldrm.49/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ysfyldrm.49/"height="30"        width="40" />
     </a>
+    <a href="https://www.instagram.com/ysfyldrm.49/" target="_blank">
+        <img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="https://www.instagram.com/ysfyldrm.49/"height="30" width="40" />
+    </a>
+    <a href="mailto:yusuffziyayildirim@gmail.com" target="_blank">
+        <img src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="mailto:yusuffziyayildirim@gmail.com">
+    </a>
+
+
 </div>
 
