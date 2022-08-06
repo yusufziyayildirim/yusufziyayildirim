@@ -10,13 +10,12 @@
     <h3>
        💻  Yusuf Ziya YILDIRIM | Full Stack Developer |  Istanbul , TR 💻 
     </h3>
-    <h3 align="center">My Stats:</h3>
     <a href="https://github.com/yusufziyayildirim">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufziyayildirim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufziyayildirim&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
    
-<h2 align="center">🤝🏻 Connect with me 🤝</h2>
+<h3 align="center">🤝🏻 Connect with me 🤝</h3>
 
 <a href="https://www.linkedin.com/in/yusuf-ziya-yildirim-aa2934223/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusuf-ziya-yildirim-aa2934223/" height="30" width="40" />
