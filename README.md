@@ -7,7 +7,7 @@
 
 <div align="center">
     <h3>
-       💻  Yusuf Ziya YILDIRIM | Full Stack Developer |  Istanbul , TR 💻 
+       💻  Yusuf Ziya YILDIRIM | Software Engineer |  Istanbul , TR 💻 
     </h3>
     <a href="https://github.com/yusufziyayildirim">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufziyayildirim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
