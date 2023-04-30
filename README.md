@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, I'm Yusuf</h1>
-    <h3>🌱 I’m currently learning 'Laravel, NodeJS, React'</>
+    <h3>🌱 I’m currently learning 'Swift, React-Native'</>
 </div>
 
 
