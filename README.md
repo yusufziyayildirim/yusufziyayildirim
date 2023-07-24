@@ -7,13 +7,12 @@
 
 <div align="center">
     <h3>
-       💻  Yusuf Ziya YILDIRIM | Software Engineer |  Istanbul , TR 💻 
+        iOS Developer  |  Software Engineer  |   Istanbul , TR  💻 
     </h3>
     <a href="https://github.com/yusufziyayildirim">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufziyayildirim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufziyayildirim&layout=compact&langs_count=6&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufziyayildirim&layout=compact&langs_count=6&theme=tokyonight"/> </a>
 
-    </a>
    
 <h3 align="center">🤝🏻 Connect with me 🤝</h3>
 
